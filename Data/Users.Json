@@ -1,0 +1,25 @@
+{
+  "usuarios": [
+    { "username": "admin", "password": "admin" },
+    { "username": "user01", "password": "ClaveDemo01!" },
+    { "username": "user02", "password": "ClaveDemo02!" },
+    { "username": "user03", "password": "ClaveDemo03!" },
+    { "username": "user04", "password": "ClaveDemo04!" },
+    { "username": "user05", "password": "ClaveDemo05!" },
+    { "username": "user06", "password": "ClaveDemo06!" },
+    { "username": "user07", "password": "ClaveDemo07!" },
+    { "username": "user08", "password": "ClaveDemo08!" },
+    { "username": "user09", "password": "ClaveDemo09!" },
+    { "username": "user10", "password": "ClaveDemo10!" },
+    { "username": "user11", "password": "ClaveDemo11!" },
+    { "username": "user12", "password": "ClaveDemo12!" },
+    { "username": "user13", "password": "ClaveDemo13!" },
+    { "username": "user14", "password": "ClaveDemo14!" },
+    { "username": "user15", "password": "ClaveDemo15!" },
+    { "username": "user16", "password": "ClaveDemo16!" },
+    { "username": "user17", "password": "ClaveDemo17!" },
+    { "username": "user18", "password": "ClaveDemo18!" },
+    { "username": "user19", "password": "ClaveDemo19!" },
+    { "username": "user20", "password": "ClaveDemo20!" }
+  ]
+}
