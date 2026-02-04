@@ -1,0 +1,64 @@
+{
+  "participantesTorneo": [
+    {
+      "pareja": "Chumachos",
+      "imagen": "https://raw.githubusercontent.com/240072/Components_Guinote/refs/heads/main/Images/logos/1.jpg",
+      "jugador1": "Carlos López",
+      "jugador2": "Miguel Torres"
+    },
+    {
+      "pareja": "Bonifacias",
+      "imagen": "https://raw.githubusercontent.com/240072/Components_Guinote/refs/heads/main/Images/logos/2.jpg",
+      "jugador1": "Ana Ruiz",
+      "jugador2": "Laura Gómez"
+    },
+    {
+      "pareja": "Bonicos",
+      "imagen": "https://raw.githubusercontent.com/240072/Components_Guinote/refs/heads/main/Images/logos/3.jpg",
+      "jugador1": "David Pérez",
+      "jugador2": "Javier Martín"
+    },
+    {
+      "pareja": "Chungas",
+      "imagen": "https://raw.githubusercontent.com/240072/Components_Guinote/refs/heads/main/Images/logos/4.jpg",
+      "jugador1": "Lucía Fernández",
+      "jugador2": "María Sánchez"
+    },
+    {
+      "pareja": "Zaforas",
+      "imagen": "https://raw.githubusercontent.com/240072/Components_Guinote/refs/heads/main/Images/logos/5.png",
+      "jugador1": "Pablo Navarro",
+      "jugador2": "Sergio Romero"
+    },
+    {
+      "pareja": "Catetas",
+      "imagen": "https://raw.githubusercontent.com/240072/Components_Guinote/refs/heads/main/Images/logos/6.png",
+      "jugador1": "Elena Castillo",
+      "jugador2": "Paula Ortega"
+    },
+    {
+      "pareja": "Canguelo",
+      "imagen": "https://raw.githubusercontent.com/240072/Components_Guinote/refs/heads/main/Images/logos/7.png",
+      "jugador1": "Adrián Molina",
+      "jugador2": "Rubén Iglesias"
+    },
+    {
+      "pareja": "Bellas",
+      "imagen": "https://raw.githubusercontent.com/240072/Components_Guinote/refs/heads/main/Images/logos/8.jpeg",
+      "jugador1": "Nerea Blanco",
+      "jugador2": "Clara Vidal"
+    },
+    {
+      "pareja": "Mataos",
+      "imagen": "https://raw.githubusercontent.com/240072/Components_Guinote/refs/heads/main/Images/logos/9.jpeg",
+      "jugador1": "Iván Domínguez",
+      "jugador2": "Hugo León"
+    },
+    {
+      "pareja": "Piquete",
+      "imagen": "https://raw.githubusercontent.com/240072/Components_Guinote/refs/heads/main/Images/logos/10.jpeg",
+      "jugador1": "Raquel Prieto",
+      "jugador2": "Andrea Cruz"
+    }
+  ]
+}
